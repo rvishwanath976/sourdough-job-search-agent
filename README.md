@@ -20,6 +20,7 @@ I built it to practice the same things I care about in AI product work: clear gu
 
 ## Docs
 - [Architecture](docs/architecture.md)
+- [Message design](docs/message-design.md)
 - [Learning loop](docs/learning-loop.md)
 - [Run metrics and what went wrong](docs/run-metrics.md)
 - [Decision log](docs/decision-log.md)

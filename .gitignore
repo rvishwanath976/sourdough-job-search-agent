@@ -3,3 +3,5 @@
 results.csv
 .DS_Store
 __pycache__/
+evals/facts.json
+evals/*_drafts.json

@@ -1,0 +1,4 @@
+{
+  "note": "Example only. Put the real approved numbers in facts.json, which is git-ignored.",
+  "allowed_numbers": ["$10M+", "30", "5x", "50%", "0", "1", "7+", "$2M"]
+}
